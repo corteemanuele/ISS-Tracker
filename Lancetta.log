@@ -1,0 +1,84 @@
+﻿UG to STEP
+! INFO-     NX STEP AP242 - V2506.8700
+! INFO-      
+! INFO-     Start of Translation: 4-JUN-2026  12:26:23 PM
+! INFO-      
+! STATUS-   Converting Part: F:\Azimuth\Lancetta.prt
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 4-JUN-2026 12:26:23 PM
+! STATUS-    
+! INFO-     Bspline aprx. value in effect for this translation :0.025400 milimeters 
+! INFO-      
+! INFO-           Summary of STEP Entities 
+! INFO-      
+! INFO-     Entity Type                                                   Count 
+! INFO-     -----------                                                   ------ 
+! INFO-     advanced_brep_shape_representation .......................:   1 
+! INFO-     advanced_face ............................................:   65 
+! INFO-     application_context ......................................:   1 
+! INFO-     application_protocol_definition ..........................:   1 
+! INFO-     axis2_placement_3d .......................................:   151 
+! INFO-     b_spline_curve_with_knots ................................:   19 
+! INFO-     b_spline_surface_with_knots ..............................:   4 
+! INFO-     camera_model_d3 ..........................................:   8 
+! INFO-     cartesian_point ..........................................:   439 
+! INFO-     circle ...................................................:   72 
+! INFO-     closed_shell .............................................:   3 
+! INFO-     colour_rgb ...............................................:   3 
+! INFO-     conical_surface ..........................................:   14 
+! INFO-     curve_style ..............................................:   23 
+! INFO-     cylindrical_surface ......................................:   18 
+! INFO-     default_model_geometric_view .............................:   1 
+! INFO-     direction ................................................:   380 
+! INFO-     draughting_model .........................................:   9 
+! INFO-     draughting_pre_defined_colour ............................:   1 
+! INFO-     draughting_pre_defined_curve_font ........................:   23 
+! INFO-     edge_curve ...............................................:   147 
+! INFO-     edge_loop ................................................:   71 
+! INFO-     ellipse ..................................................:   1 
+! INFO-     face_bound ...............................................:   71 
+! INFO-     fill_area_style ..........................................:   3 
+! INFO-     fill_area_style_colour ...................................:   3 
+! INFO-     geometrically_bounded_wireframe_shape_representation .....:   1 
+! INFO-     geometric_curve_set ......................................:   12 
+! INFO-     geometric_representation_context_and_global_uncertainty_a :   1 
+! INFO-     length_unit_and_si_unit ..................................:   1 
+! INFO-     line .....................................................:   78 
+! INFO-     manifold_solid_brep ......................................:   3 
+! INFO-     mapped_item ..............................................:   9 
+! INFO-     mechanical_design_and_draughting_relationship ............:   8 
+! INFO-     mechanical_design_geometric_presentation_representation ..:   1 
+! INFO-     model_geometric_view .....................................:   7 
+! INFO-     oriented_edge ............................................:   294 
+! INFO-     planar_box ...............................................:   8 
+! INFO-     plane ....................................................:   28 
+! INFO-     plane_angle_unit_and_si_unit .............................:   1 
+! INFO-     presentation_style_assignment ............................:   26 
+! INFO-     product ..................................................:   1 
+! INFO-     product_category .........................................:   1 
+! INFO-     product_context ..........................................:   1 
+! INFO-     product_definition .......................................:   1 
+! INFO-     product_definition_context ...............................:   1 
+! INFO-     product_definition_formation_with_specified_source .......:   1 
+! INFO-     product_definition_shape .................................:   1 
+! INFO-     product_related_product_category .........................:   1 
+! INFO-     representation_map .......................................:   9 
+! INFO-     shape_definition_representation ..........................:   1 
+! INFO-     shape_representation .....................................:   1 
+! INFO-     shape_representation_relationship ........................:   2 
+! INFO-     si_unit_and_solid_angle_unit .............................:   1 
+! INFO-     styled_item ..............................................:   26 
+! INFO-     surface_side_style .......................................:   3 
+! INFO-     surface_style_fill_area ..................................:   3 
+! INFO-     surface_style_usage ......................................:   3 
+! INFO-     toroidal_surface .........................................:   1 
+! INFO-     trimmed_curve ............................................:   23 
+! INFO-     uncertainty_measure_with_unit ............................:   1 
+! INFO-     vector ...................................................:   78 
+! INFO-     vertex_point .............................................:   94 
+! INFO-     view_volume ..............................................:   8 
+! INFO-                                                                  ------- 
+! INFO-     Total                                                         2272 
+! INFO-      
+! INFO-     End of Translation: 4-JUN-2026  12:26:31 PM
+! INFO-      
